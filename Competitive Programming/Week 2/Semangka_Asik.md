@@ -13,6 +13,9 @@ Input
 ```
 8
 ```
+
+## Sumber
+https://vjudge.net/contest/659235#problem/A
 Output
 ```
 YES
