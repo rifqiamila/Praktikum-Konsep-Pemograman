@@ -13,27 +13,27 @@ The only line of the input contains two integers a and b (1 ≤ a ≤ b�
 Print one integer, denoting the integer number of years after which Limak will become strictly larger than Bob.
 
 ## Examples
-Input
+Input (1)
 ```
 4 7
 ```
-Output
+Output (1)
 ```
 2
 ```
-Input
+Input (2)
 ```
 4 9
 ```
-Output
+Output (2)
 ```
 3
 ```
-Input
+Input (3)
 ```
 1 1
 ```
-Output
+Output (3)
 ```
 1
 ```
